@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: darkblue;
+  color: white;
+  }
+h1  {
+  text-align: center;
+  padding: 20px;
+  color:"black";
+}
+
+</style>
+
+</head>
+<body>
+
+<h1>My website</h1>
+<h2>Soccer is awesome!</h2>
+<p>Reasons why soccer is awesome:</p>
+<ul>
+<li>You can play with friends</li>
+<li>It's super fun</li>
+<li>It keeps you in shape</li>
+</ul>
+<a href="https://www.soccer.com/">Click here to shop for soccer equipment</a>
+<img src="https://images.onlinelabels.com/images/clip-art/nicubunu/nicubunu_Soccer_ball.png">
+<h3>A short history: </h3>
+<p>Soccer has a long history and has been around for centuries. The first official soccer ball was made out of vulcanized rubber in 1855, but people were kicking around all sorts of other things that acted as soccer balls. For example you could use the stomach of an animal with air inside of it.</p>
+
+</body>
+</html>
